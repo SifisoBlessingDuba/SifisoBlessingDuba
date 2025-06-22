@@ -142,7 +142,7 @@ _Certificate in AI Career Essentials_
 <br>Issued: 2024
 
 **Cisco Networking Academy**  
-_Certificate in Computer Hardware Basics_ 
+_Certificate in Computer Hardware Basics_ <br> 
 Issued: 2023
 
 **Dlomodlomo Secondary School**  
