@@ -116,7 +116,7 @@ I’m always eager to learn, debug, and level up as a developer.
 `Java` `Python` `JavaScript` `MySQL` `HTML` `CSS` `Dart` 
 
 ### 🏗️ Frameworks & Libraries  
-`Spring Boot` `React.js` `Node.js` `Express.js` `Redux` `View.js` `Flutter`
+`Spring Boot` `React.js` `Node.js` `Express.js` `Redux` `View.js` `Flutter` `Networking`
 
 ### 🗄️ Databases  
 `MySQL` `Firebase` `H2 Database`
@@ -132,20 +132,23 @@ I’m always eager to learn, debug, and level up as a developer.
 **Cape Peninsula University of Technology (CPUT)**  
 _Diploma of Technology in Information and Communication Technology_  
 Specialization: Application Development (Java Focus)  
-**NQF Level:** 6
+**NQF Level:** 6 <br> 
+**2nd Year Avarage:** 71.4% <br>
 Expected Graduation: 2025
 
 **ALX Africa**  
 _Certificate in AI Career Essentials_  
-Issued: 2024
+**Avarage:** 96.8% 
+<br>Issued: 2024
 
 **Cisco Networking Academy**  
-_Certificate in Computer Hardware Basics_  
+_Certificate in Computer Hardware Basics_ 
 Issued: 2023
 
 **Dlomodlomo Secondary School**  
-_National Senior Certificate (Matric)_  
-Completed: 2021
+_National Senior Certificate (Matric)_ <br>
+**Avarage:** 68.7% 
+<br>Completed: 2021
 
 
 <h2> 📈 GitHub Stats </h2>
