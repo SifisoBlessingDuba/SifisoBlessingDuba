@@ -113,10 +113,10 @@ I’m always eager to learn, debug, and level up as a developer.
 ## 🧠 Skills
 
 ### 💻 Programming Languages  
-`Java` `Python` `JavaScript` `MySQL` `HTML` `CSS` `Dart` 
+`Full stack Java` `Python` `JavaScript` `MySQL` `HTML` `CSS` `Dart` 
 
 ### 🏗️ Frameworks & Libraries  
-`Spring Boot` `React.js` `Node.js` `Express.js` `Redux` `View.js` `Flutter` `Networking`
+`Spring Boot` `REST APIs` `React.js` `Node.js` `Express.js` `Redux` `View.js` `Flutter` `Networking`
 
 ### 🗄️ Databases  
 `MySQL` `Firebase` `H2 Database`
